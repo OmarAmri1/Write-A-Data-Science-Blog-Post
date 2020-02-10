@@ -38,7 +38,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 **data/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://commonprogramminglanguages.blogspot.com/b/post-preview?token=APq4FmCnGX5ragnd0WowWeKISbsYhMV7N_b6kfR8zZpPWYCOBKHV2ej2BkfyUKVhcHyNhcJ8YdQQF_gd66pa3daXo0BKdr1KY7XOzoTv4PHLWHnX385Iaqj-r9P_SbqiwNBOCnlWvw_N&postId=8930845668021259102&type=POST)
+The main findings of the code can be found at the post available [here](https://commonprogramminglanguages.blogspot.com/2020/02/what-are-most-common-programming.html)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
